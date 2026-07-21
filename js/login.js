@@ -1,12 +1,10 @@
-const loginForm = document.getElementById("loginForm");
+const form = document.getElementById("loginForm");
 
-loginForm.addEventListener("submit", function(e){
+form.addEventListener("submit", function(event){
 
-    e.preventDefault();
+    event.preventDefault();
 
-    // For now just redirect.
-    // Later we'll add localStorage login.
-
+    // Redirect to Home Page
     window.location.href = "home.html";
 
 });

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Share Experience | ANUBHAV</title>
+
+    <link rel="stylesheet" href="../css/write.css">
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+
+        <h1>ANUBHAV</h1>
+
+        <a href="home.html" class="back-btn">← Back to Home</a>
+
+    </header>
+
+    <!-- Main Form -->
+
+    <section class="form-container">
+
+        <h2>Share Your Experience</h2>
+
+        <p>
+            Help juniors by sharing your journey, learnings and advice.
+        </p>
+
+        <form id="experienceForm">
+
+            <label>Your Name</label>
+
+            <input
+                type="text"
+                id="name"
+                placeholder="Enter your name"
+                required
+            >
+
+            <label>Category</label>
+
+            <select id="category">
+
+                <option>Placement</option>
+
+                <option>Internship</option>
+
+                <option>Hackathon</option>
+
+                <option>College Life</option>
+
+                <option>Higher Studies</option>
+
+                <option>Other</option>
+
+            </select>
+
+            <label>Your Experience</label>
+
+            <textarea
+                id="experience"
+                rows="12"
+                placeholder="Write your experience here..."
+                required
+            ></textarea>
+
+            <button type="submit">
+                Post Experience
+            </button>
+
+        </form>
+
+    </section>
+
+    <script src="../js/write.js"></script>
+
+</body>
+</html>
