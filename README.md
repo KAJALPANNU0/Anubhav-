@@ -43,13 +43,13 @@ ANUBHAV
 │   ├── blog.css
 │   ├── login.css
 │   ├── write.css
-│   └── img
+│   
 │
-├── html
-│   ├── index.html
-│   ├── home.html
-│   ├── blog.html
-│   └── write.html
+├
+│── index.html
+│── home.html
+│── blog.html
+│── write.html
 │
 ├── js
 │   ├── blogs.js
@@ -57,6 +57,7 @@ ANUBHAV
 │   ├── login.js
 │   ├── home.js
 │   └── write.js
+└── images
 │
 └── README.md
 ```
@@ -85,9 +86,7 @@ This project helped me understand:
 - Responsive CSS Design
 - JavaScript DOM Manipulation
 - Multi-Page Website Navigation
-- Organizing Project Structure
 - Working with Arrays and Objects
-- Dynamic Content Rendering
 - Git & GitHub Workflow
 
 ---
@@ -95,9 +94,3 @@ This project helped me understand:
 ## 👩‍💻 Author
 
 **Kajal Pannu**
-
-Electronics & Telecommunication Engineering  
-Army Institute of Technology, Pune
-
-
-> **"Every experience has the power to inspire someone else's journey."**
