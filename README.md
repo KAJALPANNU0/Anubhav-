@@ -61,47 +61,6 @@ ANUBHAV
 └── README.md
 ```
 
----
-
-## 🚀 Pages
-
-### 🔐 Login
-
-Simple login interface to enter the portal.
-
----
-
-### 🏠 Home
-
-Displays a timeline of senior experiences with:
-
-- Blog Preview
-- Author Name
-- Image
-- Read Story button
-
----
-
-### 📖 Blog
-
-Shows the complete experience including:
-
-- Story
-- Author
-- Category
-- Batch
-- Key Learnings
-
----
-
-### ✍️ Share Experience
-
-Allows users to write and submit their own experience.
-
-(Currently frontend only.)
-
----
-
 ## 🎯 Future Improvements
 
 - Backend Integration
