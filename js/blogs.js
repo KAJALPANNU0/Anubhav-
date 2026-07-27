@@ -13,7 +13,7 @@ const blogs = [
 
     date:"March 2026",
 
-    image:"../js/images/shreya.png",
+    image:"js/images/shreya.png",
 
     description:"College has been a journey of challenges, growth, and proving myself when it mattered the most. Every setback became a lesson that shaped me.",
 
@@ -49,7 +49,7 @@ const blogs = [
 
     date:"March 2026",
 
-    image:"../js/images/priyanshu.png",
+    image:"js/images/priyanshu.png",
 
     description:"Wonderful four years filled with unforgettable memories, lifelong friendships, hostel life, and experiences that made college truly special.",
 
@@ -85,7 +85,7 @@ const blogs = [
 
     date:"March 2026",
 
-    image:"../js/images/pic3.png",
+    image:"js/images/pic3.png",
 
     description:"Don't let one semester, one CGPA, or one failure define your future. Keep learning, improving your skills, and trust your journey.",
 
@@ -122,7 +122,7 @@ const blogs = [
 
     date:"March 2026",
 
-    image:"../js/images/pic4.png",
+    image:"js/images/pic4.png",
 
     description:"Some people enter your life as classmates and leave as family. College is remembered because of the people who stand beside you.",
 
@@ -162,7 +162,7 @@ const blogs = [
 
     date:"March 2026",
 
-    image:"../js/images/pic5.png",
+    image:"js/images/pic5.png",
 
     description:"College transformed me into a more confident, disciplined, and open-minded person. Every experience contributed to my growth.",
 
