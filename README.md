@@ -74,7 +74,6 @@ ANUBHAV
 - User Profiles
 - Dark Mode
 - Image Upload
-- Admin Dashboard
 
 ---
 Deployed Link - https://anubhav-kohl.vercel.app/
